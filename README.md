@@ -10,17 +10,19 @@ https://www.kaggle.com/datasets/somnambwl/bookcrossing-dataset?resource=download
 
 # It consists of three files:
 
-Books.csv
-Contains information about different books such as book title, description, author, ISBN, etc. 
-Users.csv
-Contains user IDs and ages.
-Ratings.csv
-Contains users' ratings of different books. 
+Books.csv - Contains information about different books such as book title, description, author, ISBN, etc. 
+
+Users.csv - Contains user IDs and ages.
+
+Ratings.csv - Contains users' ratings of different books. 
 
 # The dataset contains:
 
 Over 270,000 books
+
 Over 270,000 books 
+
 Over 1 Million ratings given by users to books
+
 The rating scale goes from 0 to 10.
  
